@@ -1,4 +1,4 @@
-#Basics of the repo
+Basics of the repo
 
 This is a repo that is meant to be collaborative as means to learn Machine Learning. This is a repo that
 is full of code from other different languages. I expect that the Python folder will get the most love, but
